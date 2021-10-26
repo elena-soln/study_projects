@@ -3,6 +3,7 @@
 Этот репозиторий содержит проекты, выполненные в рамках обучения.
 
 ## Проект "Выбор региона для разработки новых нефтяных месторождений"
+https://github.com/elena-soln/study_projects/tree/main/Oil_Well_Best_Location
 
 #### Навыки и инструменты
 Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Bootstrap, машинное обучение, Random Forest, Linear Regression.
@@ -16,6 +17,7 @@ Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Bootstrap, машинное
 Количество месторождений зависит от бюджета компании и стоимости разработки одной скважины, прибыль равна суммарной прибыли отобранных месторождений.
 
 ## Проект "Прототип модели для металлообрабатывающего предприятия"
+https://github.com/elena-soln/study_projects/tree/main/Gold_Processing
 
 ##### Навыки и инструменты
 Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, eli5, машинное обучение, Random Forest, Linear Regression, RandomizedSearchCV, PermutationImportance.
@@ -27,6 +29,7 @@ Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, eli5, машинное об
 Построена модель, предсказывающая коэффициент восстановления золота из золотосодержащей руды. Были проанализированы характеристики добычи и очистки. Построена и обучена модель, для оптимизации производства, чтобы не запускать предприятие с убыточными характеристиками.
 
 ## Проект "Изучение закономерностей, определяющих успешность игр"
+https://github.com/elena-soln/study_projects/tree/main/Video_Games
 
 #### Навыки и инструменты
 Python, Pandas, Matplotlib, Numpy, Seaborn, Scipy, проверка статистических гипотез, Student's t-test.
@@ -40,6 +43,7 @@ Python, Pandas, Matplotlib, Numpy, Seaborn, Scipy, проверка статис
 В ходе анализа был определен актуальный период для оценки успешности игр, изучены зависимости признаков, распределения доходов по платформам, жанрам и регионам. Сформирован образ пользователя для каждого региона - перспективный жанр, платформа, рейтинг. Протестированы гипотезы.
 
 ## Проект "Прогноз оттока клиентов банка"
+https://github.com/elena-soln/study_projects/tree/main/Bank_Clients_Churn
 
 #### Навыки и инструменты
 Pandas, Matplotlib, Numpy, Seaborn, Sklearn, GridSearchCV, LogisticRegression, RandomForest, DecisionTree, upsampling, downsampling, обучение с учителем.
