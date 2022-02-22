@@ -1,4 +1,4 @@
-## Проект "Прогноз оттока клиентов банка"
+## Прогноз оттока клиентов банка
 
 #### Навыки и инструменты
 Pandas, Matplotlib, Numpy, Seaborn, Sklearn, GridSearchCV, LogisticRegression, RandomForest, DecisionTree, upsampling, downsampling, обучение с учителем.
