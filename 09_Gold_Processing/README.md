@@ -1,7 +1,7 @@
-## Проект "Прототип модели для металлообрабатывающего предприятия"
+## Прототип модели для металлообрабатывающего предприятия
 
 ##### Навыки и инструменты
-Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, eli5, машинное обучение, Random Forest, Linear Regression, RandomizedSearchCV, PermutationImportance.
+Python, Pandas, NumPy, Matplotlib, Seaborn, Sklearn, Eli5, Random Forest, Linear Regression, RandomizedSearchCV, PermutationImportance.
 
 #### Цель проекта
 Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды.
