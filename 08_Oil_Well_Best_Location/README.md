@@ -1,7 +1,7 @@
 ## Выбор региона для разработки новых нефтяных месторождений
 
 #### Навыки и инструменты
-Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Bootstrap, машинное обучение, Random Forest, Linear Regression.
+Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Bootstrap, Random Forest, Linear Regression.
 
 #### Цель проекта
 Решить в каком регионе добывать нефть. Построить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков.
