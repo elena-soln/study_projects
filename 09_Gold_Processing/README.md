@@ -47,6 +47,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Sklearn, Eli5, Random Forest, Linear
 * feed rate — скорость подачи.
 
 **Наименование признаков**
+
 Наименование признаков формируется по следующему принципу:
 
 [этап].[тип_параметра].[название_параметра]
