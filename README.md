@@ -18,3 +18,5 @@
 |[Определение перспективного тарифа для телеком компании](https://github.com/elena-soln/study_projects/tree/main/04_Mobile_Plans)|Анализ поведения клиентов и поиск оптимального тарифа на основе данных клиентов оператора сотовой связи.|Python, Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn, Предобработка данных, Описательная статистика, Проверка статистических гипотез.| 
 |[Исследование объявлений о продаже квартир](https://github.com/elena-soln/study_projects/tree/main/03_Housing_Prices)|Исследование рыночной стоимости объектов недвижимости и типичные параметры квартир на основе сервиса Яндекс.Недвижимость.|Python, Pandas, Matplotlib, Seaborn, Plotly, Предобработка данных, Исследовательский анализ данных.|
 |[Исследование надёжности заёмщиков](https://github.com/elena-soln/study_projects/tree/main/02_Credit_Score)|Исследование влияния семейного положения и количества детей клиента на факт возврата кредита в срок на основе статистики о платёжеспособности клиентов.|Python, Pandas, NumPy, Plotly, PyMystem3, Лемматизация, Matplotlib, Seaborn, Предобработка данных, Исследовательский анализ данных.|
+
+![](https://komarev.com/ghpvc/?username=elena-soln)
